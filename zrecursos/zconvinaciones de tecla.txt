@@ -1,0 +1,58 @@
+/* DE DEPLAZAMIENTO */
+Movernos entre archivos (ctrl + p )
+Ocultar / Mostar el panel   (ctrl + b)
+Ocultar / Mostar barra de herramientas (alt + m)
+Acomodar el codigo en pantalla (alt + z)
+
+Moverse de linea al principio linea al final: teclas (inico) = izq (fin) = der (repag) ariba (avpag) = abajo
+Hacer scroll con las flechas (ctrl + ariba o abajo)
+Mover la linea de lugar (alt + ariba o abajo)
+
+Mostar extenciones (ctrl + shift + x)
+Mostrar explorador de archivos (Ctrl + Shift + E)
+Ocultar y desocultar bloques de codigo (ctrl + shift + ¿ o ?)
+
+/*SELECION PRECISA*/
+
+Selecion precisa (ctrl + shift + izq al mismo tiempo) soltar ctrl y deja shift para hacer una selecion precisa
+Seleccionar linea por linea (ctrl + l)
+
+/*MULTI CURSORES DE SELECION*/
+
+Para editar partes de informacion en varias partes (ctrl + d  oprimiendola) ctrl + u para retoceder 
+Para editar toda la informacion en varias partes   (ctrl + shift + l)
+Insertar varios cursores detro de nuetro codigo        (ctrl + alt + ariba o abajo )
+Insertar un cursor al final de casda liena selecionada (shift + alt + i)
+para crear multicursores (ctrl + clic en donde dese realizar el cambio) o (alt +ctrl + ariba o abajo)
+
+/* CLONAR - ESPACIOS - BORRAR */
+
+Duplicar o clonar  trozos de codigo (shift + alt + abajo)
+Agregar un espacio entre linea de codigo (ctrl + shift + enter)
+Borrar uan linea de codigo (ctrl + shift k)
+
+
+
+OTROS
+
+
+nav.nav>ul.ul>li.li*5>a.a{Items$}
+
+
+
+    nav.txt-center>button{Items $}*5
+    
+    <nav class="txt-center">
+        <button>Items 1</button>
+        <button>Items 2</button>
+        <button>Items 3</button>
+        <button>Items 4</button>
+        <button>Items 5</button>
+    </nav>
+   
+
+
+
+
+
+

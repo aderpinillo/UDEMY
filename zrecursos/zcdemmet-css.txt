@@ -1,0 +1,23 @@
+p → %
+e → em
+x → ex
+You can use aliases instead of full units:
+
+w100p → width: 100%
+m10p30e5x → margin: 10% 30em 5ex
+
+
+lh2 → line-height: 2;, fw400 → font-weight: 400;
+
+
+m10 → margin: 10px;
+
+m1.5 → margin: 1.5em;
+
+m1.5ex → margin: 1.5ex;
+
+m10ex20em → margin: 10ex 20em;, 
+m10ex-5   → margin: 10ex -5px;.
+
+
+bdrs → border-radius: ;

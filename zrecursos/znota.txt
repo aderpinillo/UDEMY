@@ -1,0 +1,79 @@
+/* Orden de la propiedades css
+
+1. Propiedades de posicionamiento 
+2. Propiedades del box model
+3. Propiedades de texto
+4. Propiedades visuales (colores.bordes background)
+5. Lo demas  */
+
+
+/**Propiedades de posicionamiento  */
+
+
+
+/* body{
+    position: relative;
+    top: 0;
+    left: 0;
+} */
+
+
+/**Propiedades del box model */
+
+ /* p{
+    display: block;
+    width: 20px;
+    height: 30px;
+    padding: 10px;
+    margin: 20px;
+ } */
+
+ /** Propiedades de texto */
+
+ /* h1{
+    font-size: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 300;
+
+ } */
+
+
+ /**Propiedades visuales (colores.bordes background) */
+/* 
+  p{
+
+    color: antiquewhite;
+    border: 2px solid navy;
+    border-radius: 40px;
+    background-color: aqua;
+    overflow: hidden;
+
+  }
+ */
+
+
+ /** Lo demas */
+
+ /**Animaciones,transfromaciones efectos*/
+
+
+
+
+
+COMANDOS GIT
+
+
+git status // se puede mirar el estado de los archivos si esta cargado o no
+
+git add index.html // agrega un solo archivo 
+
+git add .    //agrega todos los archivos nuevos de las carpetas
+git status      
+
+git commit -m "Mi primer archivo en git" // Realiza un comentario
+
+git push // Guarda los archivos en el repositorio git
+
+git pull realiza la actulizacion de lo archivos trabajados en ota estacion de trabajo 
+

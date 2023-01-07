@@ -1,0 +1,191 @@
+heder.header>(h.h1>a.a{Logo})+(nav.nav>ul.ul>li.li*5>a.a{items$})
+
+<heder class="header">
+    <h class="h1"><a href="" class="a">Logo</a></h>
+    <nav class="nav">
+        <ul class="ul">
+            <li class="li"><a href="" class="a">items1</a></li>
+            <li class="li"><a href="" class="a">items2</a></li>
+            <li class="li"><a href="" class="a">items3</a></li>
+            <li class="li"><a href="" class="a">items4</a></li>
+            <li class="li"><a href="" class="a">items5</a></li>
+        </ul>
+    </nav>
+</heder>
+
+
+
+<main class="main">
+    
+    section.section*2>h2.h2{titulo}+p.p{lorem10}+a.a{enlace}
+
+    <section class="section">
+        <h2 class="h2">titulo</h2>
+        <p class="p">lorem10</p>
+        <a href="" class="a">enlace</a>
+    </section>
+    <section class="section">
+        <h2 class="h2">titulo</h2>
+        <p class="p">lorem10</p>
+        <a href="" class="a">enlace</a>
+    </section>
+</main>
+
+
+
+
+    ul.ul*3>li.li*5>a.a{Items footer $}
+    
+    <ul class="ul">
+        <li class="li"><a href="" class="a">Items footer 1</a></li>
+        <li class="li"><a href="" class="a">Items footer 2</a></li>
+        <li class="li"><a href="" class="a">Items footer 3</a></li>
+        <li class="li"><a href="" class="a">Items footer 4</a></li>
+        <li class="li"><a href="" class="a">Items footer 5</a></li>
+    </ul>
+    <ul class="ul">
+        <li class="li"><a href="" class="a">Items footer 1</a></li>
+        <li class="li"><a href="" class="a">Items footer 2</a></li>
+        <li class="li"><a href="" class="a">Items footer 3</a></li>
+        <li class="li"><a href="" class="a">Items footer 4</a></li>
+        <li class="li"><a href="" class="a">Items footer 5</a></li>
+    </ul>
+    <ul class="ul">
+        <li class="li"><a href="" class="a">Items footer 1</a></li>
+        <li class="li"><a href="" class="a">Items footer 2</a></li>
+        <li class="li"><a href="" class="a">Items footer 3</a></li>
+        <li class="li"><a href="" class="a">Items footer 4</a></li>
+        <li class="li"><a href="" class="a">Items footer 5</a></li>
+    </ul>
+
+
+-------------------------------------------------------------------
+
+(header>h1+nav)+(main>section>h2+p)+footer
+
+<header>
+    <h1></h1>
+    <nav></nav>
+</header>
+<main>
+    <section>
+        <h2></h2>
+        <p></p>
+    </section>
+</main>
+<footer></footer>
+
+-------------------------------------------------------------------
+
+div>(header>ul>li*2>a)+footer>p
+
+<div>
+    <header>
+        <ul>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+        </ul>
+    </header>
+    <footer>
+        <p></p>
+    </footer>
+</div>
+
+
+-------------------------------------------------------------------
+
+
+ul>li.item$*5
+
+<ul>
+    <li class="item1"></li>
+    <li class="item2"></li>
+    <li class="item3"></li>
+    <li class="item4"></li>
+    <li class="item5"></li>
+</ul>
+
+------------------------------------------------------------------
+
+
+
+(header>(h1>a)+nav>ul>li*8)+main+footer
+
+<header>
+    <h1><a href=""></a></h1>
+    <nav>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </nav>
+</header>
+<main></main>
+<footer></footer>
+
+
+------------------------------------------------------------------
+
+
+<!-- (header>h1+nav)+(main>section>h2+p)+footer -->
+
+<header>
+    <h1></h1>
+    <nav></nav>
+</header>
+<main>
+    <section>
+        <h2></h2>
+        <p></p>
+    </section>
+</main>
+<footer></footer>
+
+------------------------------------------------------------------
+
+
+(div>dl>(dt+dd)*3)+footer>p
+
+
+<div>
+    <dl>
+        <dt></dt>
+        <dd></dd>
+        <dt></dt>
+        <dd></dd>
+        <dt></dt>
+        <dd></dd>
+    </dl>
+</div>
+<footer>
+    <p></p>
+</footer>
+
+
+------------------------------------------------------------------
+
+table>#row$*4>[colspan=2]
+
+
+    <table>
+        <tr id="row1">
+            <td colspan="2"></td>
+        </tr>
+        <tr id="row2">
+            <td colspan="2"></td>
+        </tr>
+        <tr id="row3">
+            <td colspan="2"></td>
+        </tr>
+        <tr id="row4">
+            <td colspan="2"></td>
+        </tr>
+    </table>
+
+
+
+
+
